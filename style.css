@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+    color: rgb(209, 199, 204);
+}
+
+h2 {
+    color: violet;
+}
+
+body {
+    background-color: beige;
+    margin-bottom: 300px;
+}
+
+#image {
+    float: left;
+    margin-left: 20px;
+    padding-left: 100px;
+}
+
+#project {
+    float: right;
+    padding-right: 700px;
+    padding-top: 100px;
+}
+
+#name {
+    color: black;
+    padding-left: 123px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+#about {
+    padding-top: 500px;
+    padding-left: 120px;
+}
+
+#edu {
+    float: left;
+}
+
+table,
+tr,
+th,
+td {
+    border: 2px black solid;
+    border-collapse: collapse;
+    padding: 10px 10px 10px 10px;
+}
+
+.backg {
+    color: blue;
+    font-size: 1.5em;
+}
+
+#para {
+    width: 1200px;
+    border: 2px solid white;
+    padding: 10px 10px 10px 10px;
+}
+
+#aboutme {
+    color: midnightblue;
+    font-size: 3em;
+}
+
+.footer {
+    text-align: center;
+    background-color: grey;
+}
