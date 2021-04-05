@@ -74,3 +74,13 @@ td {
     text-align: center;
     background-color: grey;
 }
+
+#prog {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#langu {
+    font-size: 20px;
+    font-style: italic;
+}
