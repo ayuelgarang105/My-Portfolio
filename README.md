@@ -3,7 +3,6 @@
 **Gabriel Ayuel**
 ## Description
 This is my portfolio which consists of my full name, photo, links of projects I have worked on, education background, skills, work experience, contacts and licence.
-
 ## Technologies Used
 * [HTML5]
 * [CSS]
